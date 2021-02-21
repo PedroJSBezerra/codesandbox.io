@@ -13,8 +13,16 @@ export default function App() {
   }
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>Cart</h1>
+      <h2>Shoplist</h2>
+      <Item name="cheese" price="29.99" />
+      <Item name="coke" price="7.99" />
+      <Item name="coffee" price="2.99" />
+      <Item name="bread" price="4.55" />
+      <Item name="cheese" price="29.99" />
+      <Item name="coke" price="7.99" />
+      <Item name="coffee" price="2.99" />
+      <Item name="bread" price="4.55" />
       <Item name="cheese" price="29.99" />
       <Item name="coke" price="7.99" />
       <Item name="coffee" price="2.99" />
