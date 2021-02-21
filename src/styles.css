@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.item {
+  background: rgb(0, 0, 0, 0.2);
+  margin: 1rem;
+  display: block;
+  padding: 2rem;
+  border: 1px solid;
+  border-radius: 1rem;
+  width: 50vh;
+}
